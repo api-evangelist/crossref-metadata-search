@@ -39,7 +39,6 @@ apis:
   - name: Crossref Metadata Search
     description: "Books & Articles Metadata"
     humanURL: https://github.com/CrossRef/rest-api-doc
-    baseURL: https://github.com/CrossRef/rest-api-doc
     tags:
       - Books
     properties:
